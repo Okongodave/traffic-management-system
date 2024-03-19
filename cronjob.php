@@ -1,0 +1,1 @@
+* * 1 1 * wget http://localhost/reset.php > output.log
